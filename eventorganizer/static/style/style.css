@@ -1,0 +1,12 @@
+:root {
+    --primary-color: #ff5733;
+}
+
+.btn-primary {
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+}
+
+.text-primary {
+    color: var(--primary-color);
+}
