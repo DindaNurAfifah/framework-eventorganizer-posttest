@@ -1,4 +1,4 @@
-# Posttest - Framework
+# Posttest - Framework - Event Organizer (Events Co.)
 
 ## 2109106061
 ## Dinda Nur Afifah
